@@ -1,3 +1,3 @@
 "Reach Out for the Skies"	Taufik Batisah and Rui En 	Elaine Chan 	Selena Tan		勇敢向前飞 	Rui En 瑞恩 
 TofuMaget
-https://github.com/ict2207/ict2207-lab01-2021
+https://github.com/TofuMaget/mylab1
