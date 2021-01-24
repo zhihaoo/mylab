@@ -1,3 +1,0 @@
-FavSong	: Henrik Widegren - I Want to Die
-Github userid : ethancunt
-Lab1 Repo: https://github.com/ethancunt/mylab1
